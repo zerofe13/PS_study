@@ -45,7 +45,7 @@ while True:
                     array[n_y][n_x] = 9 # 아기상어 위치이동
                     array[i][j]=0
                     possibilty_pos=[] #초기화
-                    size_count += #먹이 
+                    size_count += 1#먹이 
                     if size_count == baby_size:
                         baby_size += 1 #아기사이즈 
                         size_count = 0
