@@ -14,5 +14,5 @@
 --|--
 [인구이동](https://www.acmicpc.net/problem/16234)|O
 [단어 변환](https://programmers.co.kr/learn/courses/30/lessons/43163)| O
-[타켓 넘버](https://programmers.co.kr/learn/courses/30/lessons/43165)| X
+[타켓 넘버](https://programmers.co.kr/learn/courses/30/lessons/43165)| O
 [마법사 상어와 비바라기](https://www.acmicpc.net/problem/21610) | x
