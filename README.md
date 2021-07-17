@@ -16,3 +16,8 @@
 [단어 변환](https://programmers.co.kr/learn/courses/30/lessons/43163)| O
 [타켓 넘버](https://programmers.co.kr/learn/courses/30/lessons/43165)| O
 [마법사 상어와 비바라기](https://www.acmicpc.net/problem/21610) | x
+
+## 7월 3주차
+문제 | 풀이
+--|--
+[네트워크](https://programmers.co.kr/learn/courses/30/lessons/43162) | O
