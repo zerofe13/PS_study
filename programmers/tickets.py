@@ -8,7 +8,6 @@ def solution(tickets):
     tickets.sort()
     def DFS(ticket,depth,path):
         nonlocal mem_path
-        
         for i in range(len(tickets)):
             if ticket[1] == tickets[i][0] and check[i] == 0:
                 check[i] = 1 # 방문
@@ -18,6 +17,8 @@ def solution(tickets):
         if depth == len(tickets)-1 and not mem_path: # 저장경로가 첫번째 경우가 알파벳 우선순위 
             air_path[path] = -1
             mem_path = air_path[:] #copy
+            return
+        if mem_path: #백트랙킹
             return
 
     for i in range(len(tickets)):
