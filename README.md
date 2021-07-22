@@ -22,3 +22,6 @@
 --|--
 [네트워크](https://programmers.co.kr/learn/courses/30/lessons/43162) | O
 [여행경로](https://programmers.co.kr/learn/courses/30/lessons/43164) | O
+[나무재테크](https://www.acmicpc.net/problem/16235) | x
+[감시](https://www.acmicpc.net/problem/15683) | x
+[컬러링북](https://programmers.co.kr/learn/courses/30/lessons/1829) | x
