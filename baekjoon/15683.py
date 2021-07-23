@@ -155,7 +155,7 @@ if dirArr:
     for i in range(4):
         dirArr[0] = i
         dfs(0)
-else:
+else: #cctv없는경우 
     result = count(array)
 
 print(result)
