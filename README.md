@@ -25,3 +25,11 @@
 [나무재테크](https://www.acmicpc.net/problem/16235) | O
 [감시](https://www.acmicpc.net/problem/15683) | O
 [컬러링북](https://programmers.co.kr/learn/courses/30/lessons/1829) | O
+
+## 7월 4주차
+문제 | 풀이
+--|--
+[정수삼각형](https://programmers.co.kr/learn/courses/30/lessons/43105) | x
+[N의로 표현](https://programmers.co.kr/learn/courses/30/lessons/42895) | x
+[퇴사](hhttps://www.acmicpc.net/problem/14501) | x
+[통나무 옮기기](https://www.acmicpc.net/problem/1938) | x
