@@ -31,5 +31,5 @@
 --|--
 [정수삼각형](https://programmers.co.kr/learn/courses/30/lessons/43105) | x
 [N으로 표현](https://programmers.co.kr/learn/courses/30/lessons/42895) | x
-[퇴사](hhttps://www.acmicpc.net/problem/14501) | x
+[퇴사](https://www.acmicpc.net/problem/14501) | x
 [통나무 옮기기](https://www.acmicpc.net/problem/1938) | x
