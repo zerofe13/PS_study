@@ -29,7 +29,9 @@
 ## 7월 4주차
 문제 | 풀이
 --|--
-[정수삼각형](https://programmers.co.kr/learn/courses/30/lessons/43105) | x
-[N으로 표현](https://programmers.co.kr/learn/courses/30/lessons/42895) | x
+[정수삼각형](https://programmers.co.kr/learn/courses/30/lessons/43105) | O
+[N으로 표현](https://programmers.co.kr/learn/courses/30/lessons/42895) | O
 [퇴사](https://www.acmicpc.net/problem/14501) | x
 [통나무 옮기기](https://www.acmicpc.net/problem/1938) | x
+[등굣길](https://programmers.co.kr/learn/courses/30/lessons/42898)|x
+[도둑질](https://programmers.co.kr/learn/courses/30/lessons/42897)|x
