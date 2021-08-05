@@ -26,7 +26,7 @@
 [감시](https://www.acmicpc.net/problem/15683) | O
 [컬러링북](https://programmers.co.kr/learn/courses/30/lessons/1829) | O
 
-## 7월 4주차
+## 7월 4주차 
 문제 | 풀이
 --|--
 [정수삼각형](https://programmers.co.kr/learn/courses/30/lessons/43105) | O
