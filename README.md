@@ -42,3 +42,5 @@
 | [통나무 옮기기](https://www.acmicpc.net/problem/1938)                  | x    |
 | [등굣길](https://programmers.co.kr/learn/courses/30/lessons/42898)     | x    |
 | [도둑질](https://programmers.co.kr/learn/courses/30/lessons/42897)     | x    |
+
+## 8월 1주
