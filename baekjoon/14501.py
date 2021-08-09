@@ -1,10 +1,16 @@
 # 퇴사
 N = int(input())
 arr = [list(map(int,input().split()))for _ in range(N)]
-dp = [0]*N
-money = 0
-for i in range(N):
-    money = max(money,dp[i])
-    if arr[i][0]+i-1 <= N:
-        dp[arr[i][0]+i-1] = max(money+arr[i][1],dp[arr[i][0]+i-1])
-print(dp[N])
+result = 0
+
+def dfs(t,p):
+    global result
+    if t>N:
+        return
+    if t==N:
+        result = max (result,p)
+        return
+    dfs(t+arr[t][0],p+arr[t][1])
+    dfs(t+1,p)
+dfs(0,0)
+print(result)
