@@ -2,6 +2,8 @@
 N = int(input())
 arr = [list(str,input()) for _ in range(N)]
 state = 0 # 0 수평 1 수직 
+e_state = 0 # 도착지점 상태 도착지점의 중심값과 형태가 통나무와 일치해야한다.
+check=[[[0 for col in range(N)] for row in range(N)] for depth in range(N)] #상태에 따른 방문 체크 
 def searchPos(arr):
     pos = []
     for i in range(N):
