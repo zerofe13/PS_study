@@ -48,3 +48,5 @@
 | 문제                                                                   | 풀이 |
 | ---------------------------------------------------------------------- | ---- |
 | [가장먼노드](https://programmers.co.kr/learn/courses/30/lessons/49189) | o    |
+| [인간대포](https://www.acmicpc.net/problem/10473)                      | x    |
+| [플로이드](https://www.acmicpc.net/problem/11404)                      | x    |
