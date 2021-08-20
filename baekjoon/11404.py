@@ -2,11 +2,11 @@
 INF = 100001
 n = int(input())
 m = int(input())
-graph = [[INF]* (m+1) for _ in range(m+1)]
+graph = [[INF]* (n+1) for _ in range(n+1)]
 
 #초기화
-for a in range(1, m+1):
-    for b in range(1, m+1):
+for a in range(1, n+1):
+    for b in range(1, n+1):
         if a==b:
             graph[a][b] =0
 for _ in range(m):
