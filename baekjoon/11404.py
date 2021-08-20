@@ -1,5 +1,5 @@
 # 플로이드
-INF = 100001
+INF = 1000001
 n = int(input())
 m = int(input())
 graph = [[INF]* (n+1) for _ in range(n+1)]
@@ -11,7 +11,7 @@ for a in range(1, n+1):
             graph[a][b] =0
 for _ in range(m):
     a,b,c = map(int,input().split())
-    graph[a][b] = c
+    graph[a][b] =  min(graph[a][b],c)
 # 플로이드
 for k in range(1,n+1):
     for a in range(1,n+1):
