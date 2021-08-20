@@ -1,5 +1,5 @@
 # 플로이드
-INF = 1000001
+INF = int(1e9)
 n = int(input())
 m = int(input())
 graph = [[INF]* (n+1) for _ in range(n+1)]
