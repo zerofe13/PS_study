@@ -1,16 +1,15 @@
 def solution(arr):
+    # max arr size 1000
+    # max num size 255
     answer = -1
-    sortedList = sorted(arr)
-    myList =[]
-    midNum = 0
-    for n in sortedList:
-        if n not in myList:
-            myList.append(n)
-    
-    if len(myList)%2 == 1:
-        midNum = myList[len(myList)//2]-1
-    else:
-        midNum = myList[len(myList)//2-1]+1
+    a =0 
+    b =0
+    for i in range(255):
+        for num in arr:
+            if num <i:
+                b= b+1
+            elif num > i :
+                a = a+1
     answer = midNum
 
     return answer
