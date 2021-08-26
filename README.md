@@ -50,3 +50,11 @@
 | [가장먼노드](https://programmers.co.kr/learn/courses/30/lessons/49189) | o    |
 | [인간대포](https://www.acmicpc.net/problem/10473)                      | x    |
 | [플로이드](https://www.acmicpc.net/problem/11404)                      | o    |
+
+## ## 8월 4주
+
+| 문제                                                    | 풀이 |
+| ------------------------------------------------------- | ---- |
+| [최소비용 구하기](https://www.acmicpc.net/problem/1916) | x    |
+| [숨바꼭질3](https://www.acmicpc.net/problem/13549)      | x    |
+| [파티](https://www.acmicpc.net/problem/1238)            | x    |
