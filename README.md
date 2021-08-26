@@ -56,5 +56,5 @@
 | 문제                                                    | 풀이 |
 | ------------------------------------------------------- | ---- |
 | [최소비용 구하기](https://www.acmicpc.net/problem/1916) | o    |
-| [숨바꼭질3](https://www.acmicpc.net/problem/13549)      | x    |
+| [숨바꼭질3](https://www.acmicpc.net/problem/13549)      | o    |
 | [파티](https://www.acmicpc.net/problem/1238)            | x    |
