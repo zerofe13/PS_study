@@ -53,8 +53,9 @@
 
 ## ## 8월 4주
 
-| 문제                                                    | 풀이 |
-| ------------------------------------------------------- | ---- |
-| [최소비용 구하기](https://www.acmicpc.net/problem/1916) | o    |
-| [숨바꼭질3](https://www.acmicpc.net/problem/13549)      | o    |
-| [파티](https://www.acmicpc.net/problem/1238)            | o    |
+| 문제                                                                     | 풀이 |
+| ------------------------------------------------------------------------ | ---- |
+| [최소비용 구하기](https://www.acmicpc.net/problem/1916)                  | o    |
+| [숨바꼭질3](https://www.acmicpc.net/problem/13549)                       | o    |
+| [파티](https://www.acmicpc.net/problem/1238)                             | o    |
+| [합승택시요금](https://programmers.co.kr/learn/courses/30/lessons/72413) | o    |
