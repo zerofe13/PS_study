@@ -59,3 +59,9 @@
 | [숨바꼭질3](https://www.acmicpc.net/problem/13549)                       | o    |
 | [파티](https://www.acmicpc.net/problem/1238)                             | o    |
 | [합승택시요금](https://programmers.co.kr/learn/courses/30/lessons/72413) | o    |
+
+## 9월 1주
+
+| 문제                                                              | 풀이 |
+| ----------------------------------------------------------------- | ---- |
+| [녹색 옷 입은 애가 젤다지?](https://www.acmicpc.net/problem/4485) | o    |
