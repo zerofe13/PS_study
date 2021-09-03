@@ -66,3 +66,4 @@
 | ----------------------------------------------------------------- | ---- |
 | [녹색 옷 입은 애가 젤다지?](https://www.acmicpc.net/problem/4485) | o    |
 | [네트워크 연결](https://www.acmicpc.net/problem/1922)             | o    |
+| [줄 세우기](https://www.acmicpc.net/problem/2252)                 | o    |
