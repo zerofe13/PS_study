@@ -68,3 +68,4 @@
 | [네트워크 연결](https://www.acmicpc.net/problem/1922)             | o    |
 | [줄 세우기](https://www.acmicpc.net/problem/2252)                 | o    |
 | [최단경로](https://www.acmicpc.net/problem/1753)                  | o    |
+| [기차표 검사](https://www.acmicpc.net/problem/3167)               | o    |
