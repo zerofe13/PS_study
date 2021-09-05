@@ -69,3 +69,9 @@
 | [줄 세우기](https://www.acmicpc.net/problem/2252)                 | o    |
 | [최단경로](https://www.acmicpc.net/problem/1753)                  | o    |
 | [기차표 검사](https://www.acmicpc.net/problem/3167)               | o    |
+
+## 9월 2주
+
+| 문제                                                 | 풀이 |
+| ---------------------------------------------------- | ---- |
+| [명령프롬프트](https://www.acmicpc.net/problem/1032) | o    |
