@@ -72,7 +72,8 @@
 
 ## 9월 2주
 
-| 문제                                                 | 풀이 |
-| ---------------------------------------------------- | ---- |
-| [명령프롬프트](https://www.acmicpc.net/problem/1032) | o    |
-| [문자열](https://www.acmicpc.net/problem/1120)       | o    |
+| 문제                                                                     | 풀이 |
+| ------------------------------------------------------------------------ | ---- |
+| [명령프롬프트](https://www.acmicpc.net/problem/1032)                     | o    |
+| [문자열](https://www.acmicpc.net/problem/1120)                           | o    |
+| [복서정렬하기](https://programmers.co.kr/learn/courses/30/lessons/85002) | o    |
