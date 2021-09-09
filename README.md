@@ -78,3 +78,4 @@
 | [문자열](https://www.acmicpc.net/problem/1120)                           | o    |
 | [복서정렬하기](https://programmers.co.kr/learn/courses/30/lessons/85002) | o    |
 | [ACM Craft](https://www.acmicpc.net/problem/1005)                        | o    |
+| [거짓말](https://www.acmicpc.net/problem/1043)                           | o    |
