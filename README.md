@@ -79,3 +79,9 @@
 | [복서정렬하기](https://programmers.co.kr/learn/courses/30/lessons/85002) | o    |
 | [ACM Craft](https://www.acmicpc.net/problem/1005)                        | o    |
 | [거짓말](https://www.acmicpc.net/problem/1043)                           | o    |
+
+## 9월 3주
+
+| 문제                                                                           | 풀이 |
+| ------------------------------------------------------------------------------ | ---- |
+| [위클리챌린지 7주차](https://programmers.co.kr/learn/courses/30/lessons/86048) | o    |
