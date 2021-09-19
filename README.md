@@ -86,3 +86,4 @@
 | ------------------------------------------------------------------------------ | ---- |
 | [위클리챌린지 7주차](https://programmers.co.kr/learn/courses/30/lessons/86048) | o    |
 | [구간 합 구하기](https://www.acmicpc.net/problem/2042)                         | o    |
+| [구간 합 구하기2](https://www.acmicpc.net/problem/10999)                       | o    |
