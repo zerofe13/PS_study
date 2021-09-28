@@ -99,3 +99,4 @@
 | -------------------------------------------------------------------------------------- | ---- |
 | [괄호 변환](https://programmers.co.kr/learn/courses/30/lessons/60058?language=python3) | o    |
 | [문자열 압축](https://programmers.co.kr/learn/courses/30/lessons/60057)                | o    |
+| [가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/11053)                    | o    |
