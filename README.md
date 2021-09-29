@@ -103,3 +103,4 @@
 | [가장 긴 증가하는 부분 수열2](https://www.acmicpc.net/problem/12015)                   | o    |
 | [가장 긴 증가하는 부분 수열3](https://www.acmicpc.net/problem/12738)                   | o    |
 | [위클리챌린지 8주차](https://programmers.co.kr/learn/courses/30/lessons/86491)         | o    |
+| [구간 합 구하기5](https://www.acmicpc.net/problem/11660)                               | o    |
