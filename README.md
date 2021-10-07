@@ -113,3 +113,4 @@
 | [위클리챌린지 2](https://programmers.co.kr/learn/courses/30/lessons/83201) | o    |
 | [위클리챌린지 3](https://programmers.co.kr/learn/courses/30/lessons/84021) | o    |
 | [특정한 최단 경로](https://www.acmicpc.net/problem/1504)                   | o    |
+| [최소 스패닝 트리](https://www.acmicpc.net/problem/1197)                   | o    |
