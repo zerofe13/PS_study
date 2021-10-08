@@ -116,3 +116,4 @@
 | [최소 스패닝 트리](https://www.acmicpc.net/problem/1197)                   | o    |
 | [물대기](https://www.acmicpc.net/problem/1368)                             | o    |
 | [음악프로그램](https://www.acmicpc.net/problem/2623)                       | o    |
+| [주사위](https://www.acmicpc.net/problem/2623)                             | o    |
