@@ -117,3 +117,9 @@
 | [물대기](https://www.acmicpc.net/problem/1368)                             | o    |
 | [음악프로그램](https://www.acmicpc.net/problem/2623)                       | o    |
 | [주사위](https://www.acmicpc.net/problem/2623)                             | o    |
+
+## 10월 2주
+
+| 문제                                                                       | 풀이 |
+| -------------------------------------------------------------------------- | ---- |
+| [위클리챌린지 5](https://programmers.co.kr/learn/courses/30/lessons/84512) | o    |
