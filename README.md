@@ -123,3 +123,4 @@
 | 문제                                                                       | 풀이 |
 | -------------------------------------------------------------------------- | ---- |
 | [위클리챌린지 5](https://programmers.co.kr/learn/courses/30/lessons/84512) | o    |
+| [위클리챌린지 9](https://programmers.co.kr/learn/courses/30/lessons/86971) | o    |
