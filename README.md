@@ -127,3 +127,4 @@
 | [위클리챌린지 10](https://programmers.co.kr/learn/courses/30/lessons/87377) | o    |
 | [트리의 부모 찾기](https://www.acmicpc.net/problem/11725)                   | o    |
 | [서강그라운드](https://www.acmicpc.net/problem/14938)                       | o    |
+| [N과M(2)](https://www.acmicpc.net/problem/15650)                            | o    |
