@@ -128,3 +128,4 @@
 | [트리의 부모 찾기](https://www.acmicpc.net/problem/11725)                   | o    |
 | [서강그라운드](https://www.acmicpc.net/problem/14938)                       | o    |
 | [N과M(2)](https://www.acmicpc.net/problem/15650)                            | o    |
+| [N과M(5)](https://www.acmicpc.net/problem/15654)                            | o    |
