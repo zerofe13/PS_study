@@ -129,3 +129,4 @@
 | [서강그라운드](https://www.acmicpc.net/problem/14938)                       | o    |
 | [N과M(2)](https://www.acmicpc.net/problem/15650)                            | o    |
 | [N과M(5)](https://www.acmicpc.net/problem/15654)                            | o    |
+| [평범한 배낭](https://www.acmicpc.net/problem/12865)                        | o    |
