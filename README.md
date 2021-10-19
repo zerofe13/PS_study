@@ -130,3 +130,9 @@
 | [N과M(2)](https://www.acmicpc.net/problem/15650)                            | o    |
 | [N과M(5)](https://www.acmicpc.net/problem/15654)                            | o    |
 | [평범한 배낭](https://www.acmicpc.net/problem/12865)                        | o    |
+
+## 10월 3주
+
+| 문제                                                                        | 풀이 |
+| --------------------------------------------------------------------------- | ---- |
+| [위클리챌린지 11](https://programmers.co.kr/learn/courses/30/lessons/87694) | o    |
