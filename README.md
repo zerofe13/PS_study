@@ -146,10 +146,16 @@
 | [크레인 인형뽑기](https://programmers.co.kr/learn/courses/30/lessons/64061) | o    |
 | [키패드 누르기](https://programmers.co.kr/learn/courses/30/lessons/67256)   | o    |
 
-## 1월 1주
+## 11월 1주
 
 | 문제                                                                             | 풀이 |
 | -------------------------------------------------------------------------------- | ---- |
 | [숫자 문자열과 영단어](https://programmers.co.kr/learn/courses/30/lessons/81301) | o    |
 | [실패율](https://programmers.co.kr/learn/courses/30/lessons/42889)               | o    |
 | [비밀지도](https://programmers.co.kr/learn/courses/30/lessons/17681)             | o    |
+
+## 11월 2주
+
+| 문제                                                                 | 풀이 |
+| -------------------------------------------------------------------- | ---- |
+| [다트게임](https://programmers.co.kr/learn/courses/30/lessons/17682) | o    |
