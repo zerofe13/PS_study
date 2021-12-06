@@ -172,4 +172,11 @@
 | ----------------------------------------------------------------------------- | ---- |
 | [메뉴리뉴얼](https://programmers.co.kr/learn/courses/30/lessons/72411)        | o    |
 | [거리두기 확인하기](https://programmers.co.kr/learn/courses/30/lessons/82301) | o    |
-| [뉴스 클러스터링](https://programmers.co.kr/learn/courses/30/lessons/17677)   | o    |
+
+| [뉴스 클러스터링](https://programmers.co.kr/learn/courses/30/lessons/17677) | o |
+
+## 12월 2주
+
+| 문제                                                                   | 풀이 |
+| ---------------------------------------------------------------------- | ---- |
+| [수식최대화](https://programmers.co.kr/learn/courses/30/lessons/67257) | o    |
