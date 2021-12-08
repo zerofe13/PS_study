@@ -176,7 +176,8 @@
 
 ## 12월 2주
 
-| 문제                                                                   | 풀이 |
-| ---------------------------------------------------------------------- | ---- |
-| [수식최대화](https://programmers.co.kr/learn/courses/30/lessons/67257) | o    |
-| [튜플](https://programmers.co.kr/learn/courses/30/lessons/64065)       | o    |
+| 문제                                                                                     | 풀이 |
+| ---------------------------------------------------------------------------------------- | ---- |
+| [수식최대화](https://programmers.co.kr/learn/courses/30/lessons/67257)                   | o    |
+| [튜플](https://programmers.co.kr/learn/courses/30/lessons/64065)                         | o    |
+| [로또의 최고 순위와 최저 순위](https://programmers.co.kr/learn/courses/30/lessons/77484) | o    |
