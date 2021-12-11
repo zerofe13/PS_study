@@ -23,5 +23,3 @@ def solution(rows, columns, queries):
             min_num  = min(graph[i][y1-1],graph[i][y2-1],min_num)
         answer.append(min_num)
     return answer
-
-print(solution(3,3,[[1,1,2,2],[1,2,2,3],[2,1,3,2],[2,2,3,3]]))
