@@ -182,4 +182,9 @@
 | [튜플](https://programmers.co.kr/learn/courses/30/lessons/64065)                         | o    |
 | [로또의 최고 순위와 최저 순위](https://programmers.co.kr/learn/courses/30/lessons/77484) | o    |
 | [행렬 테두리 회전하기](https://programmers.co.kr/learn/courses/30/lessons/77485)         | o    |
-| [캐시](https://programmers.co.kr/learn/courses/30/lessons/17680)                         | o    |
+
+## 12월 3주
+
+| 문제                                                             | 풀이 |
+| ---------------------------------------------------------------- | ---- |
+| [캐시](https://programmers.co.kr/learn/courses/30/lessons/17680) | o    |
