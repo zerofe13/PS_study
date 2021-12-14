@@ -185,6 +185,7 @@
 
 ## 12월 3주
 
-| 문제                                                             | 풀이 |
-| ---------------------------------------------------------------- | ---- |
-| [캐시](https://programmers.co.kr/learn/courses/30/lessons/17680) | o    |
+| 문제                                                                      | 풀이 |
+| ------------------------------------------------------------------------- | ---- |
+| [캐시](https://programmers.co.kr/learn/courses/30/lessons/17680)          | o    |
+| [멀쩡한 사각형](https://programmers.co.kr/learn/courses/30/lessons/62048) | o    |
