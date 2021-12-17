@@ -191,3 +191,4 @@
 | [멀쩡한 사각형](https://programmers.co.kr/learn/courses/30/lessons/62048) | o    |
 | [124 숫자나라](https://programmers.co.kr/learn/courses/30/lessons/12899#) | o    |
 | [순위 검색](https://programmers.co.kr/learn/courses/30/lessons/72412)     | o    |
+| [후보키](https://programmers.co.kr/learn/courses/30/lessons/42890)        | o    |
