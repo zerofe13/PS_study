@@ -26,11 +26,10 @@ def solution(relation):
     for i in reversed(range(len(key))):
         flag = True
         for j in range(i):
+            # issubset 부분집합 
             if key[j].issubset(key[i]):
                 flag = False
                 break
         if flag:
             answer += 1
     return answer
-
-print(solution([["100","ryan","music","2"],["200","apeach","math","2"],["300","tube","computer","3"],["400","con","computer","4"],["500","muzi","music","3"],["600","apeach","music","2"]]))
