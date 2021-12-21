@@ -192,3 +192,9 @@
 | [124 숫자나라](https://programmers.co.kr/learn/courses/30/lessons/12899#) | o    |
 | [순위 검색](https://programmers.co.kr/learn/courses/30/lessons/72412)     | o    |
 | [후보키](https://programmers.co.kr/learn/courses/30/lessons/42890)        | o    |
+
+## 12월 4주
+
+| 문제                                                                    | 풀이 |
+| ----------------------------------------------------------------------- | ---- |
+| [프렌즈4블록](https://programmers.co.kr/learn/courses/30/lessons/17679) | o    |
