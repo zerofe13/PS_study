@@ -1,4 +1,4 @@
-#LSC
+#LCS
 import sys
 input = sys.stdin.readline
 
