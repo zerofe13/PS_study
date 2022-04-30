@@ -58,7 +58,7 @@ for i in range(1,v+1):
         if mac_dist[i]+star_dist[i]<result:
             result = mac_dist[i]+star_dist[i]
 
-if result ==INF:
-    print(-1)
-else:
-    print(result)
+# if result ==INF:
+#     print(-1)
+# else:
+#     print(result)
